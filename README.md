@@ -1,6 +1,11 @@
 # Todo-List
 React - TypeScript
 
+## Available Scripts
+  In the project directory, you can run:
+ ### `npm install`
+ ### `npm start`
+
  * You can learn about the following topics:
 
  * Types and how to use
